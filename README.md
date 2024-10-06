@@ -1,4 +1,5 @@
-# krishnakg
+# Project
+
 AgriConnect: A Fully Functioning Website for Farmers
 
 AgriConnect is a web-based platform that connects farmers with NASA's satellite and geospatial datasets, providing them with valuable insights to improve their farming practices and address water-related concerns. The platform aims to make remote sensing data accessible and actionable for farmers, enabling them to make data-driven decisions and optimize their water usage.
