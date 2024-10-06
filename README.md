@@ -1,4 +1,4 @@
-# Project
+# NASA Space apps Challenge
 
 AgriConnect: A Fully Functioning Website for Farmers
 
